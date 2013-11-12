@@ -1,4 +1,4 @@
-MarsUploadSiteMars::Application.routes.draw do
+Pinteresting::Application.routes.draw do
   get "users/show"
   resources :pins
 
