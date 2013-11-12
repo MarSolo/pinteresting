@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-MarsUploadSiteMars::Application.load_tasks
+Pinteresting::Application.load_tasks
